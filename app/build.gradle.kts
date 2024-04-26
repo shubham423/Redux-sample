@@ -42,7 +42,6 @@ android {
 
 dependencies {
 
-    implementation(libs.androidx.navigation.fragment)
     val retrofitVersion = "2.9.0"
 
     implementation("com.squareup.retrofit2:retrofit:$retrofitVersion")
